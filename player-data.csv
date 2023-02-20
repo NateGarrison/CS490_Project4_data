@@ -1,0 +1,856 @@
+,Player,Class,Pos,Weight,Height (in.),School
+0,Jaren Lewis,SR,F,215.0,78,Abilene Christian
+1,Payten Ricks,JR,G,190.0,74,Abilene Christian
+2,Jaylen Franklin,SR,G,205.0,74,Abilene Christian
+3,Jalone Friday,JR,C,235.0,81,Abilene Christian
+4,Hayden Farquhar,SR,F,215.0,79,Abilene Christian
+5,B.J. Maxwell,JR,G,200.0,76,Abilene Christian
+6,Joe Pleasant,FR,F,220.0,80,Abilene Christian
+7,Damien Daniels,FR,G,140.0,67,Abilene Christian
+8,Trey Lenox,JR,G,220.0,75,Abilene Christian
+9,Clay Gayman,FR,F,220.0,78,Abilene Christian
+10,Kolton Kohl,SO,C,240.0,84,Abilene Christian
+11,Tobias Cameron,FR,G,210.0,77,Abilene Christian
+12,Chase Cobb,JR,G,190.0,73,Abilene Christian
+13,Paul Hiepler,SO,G,190.0,76,Abilene Christian
+0,Luguentz Dort,FR,G,215.0,76,Arizona State
+1,Remy Martin,SO,G,175.0,72,Arizona State
+2,Zylan Cheatham,SR,F,220.0,80,Arizona State
+3,Rob Edwards,JR,G,205.0,77,Arizona State
+4,Romello White,SO,F,235.0,80,Arizona State
+5,Kimani Lawrence,SO,F,210.0,80,Arizona State
+6,Taeshon Cherry,FR,F,220.0,80,Arizona State
+7,De'Quon Lake,SR,F,225.0,82,Arizona State
+8,Elias Valtonen,FR,G,195.0,79,Arizona State
+9,Mickey Mitchell,JR,F,225.0,79,Arizona State
+10,Vitaliy Shibel,JR,F,210.0,81,Arizona State
+11,Kyle Feit,FR,G,215.0,76,Arizona State
+12,Grant Fogerty,JR,G,175.0,72,Arizona State
+13,Jordan Salzman,SO,G,175.0,70,Arizona State
+14,Jack Roggin,SO,G,165.0,72,Arizona State
+15,Trev Thompson,SO,G,175.0,74,Arizona State
+0,Bryce Brown,SR,G,198.0,75,Auburn
+1,Jared Harper,JR,G,175.0,71,Auburn
+2,Chuma Okeke,SO,F,230.0,80,Auburn
+3,Samir Doughty,JR,G,195.0,76,Auburn
+4,Anfernee McLemore,JR,F,220.0,79,Auburn
+5,Malik Dunbar,SR,G,230.0,78,Auburn
+6,Austin Wiley,JR,C,260.0,83,Auburn
+7,Horace Spencer,SR,F,225.0,80,Auburn
+8,J'Von McCormick,JR,G,185.0,72,Auburn
+9,Danjel Purifoy,JR,F,230.0,79,Auburn
+10,Myles Parker,FR,F,210.0,79,Auburn
+11,Will Macoy,JR,G,200.0,76,Auburn
+12,Cole Blackstock,SR,F,260.0,81,Auburn
+13,Preston Cook,FR,G,205.0,76,Auburn
+14,Chase Maasdorp,FR,G,175.0,72,Auburn
+15,Devontae Williams,JR,G,215.0,76,Auburn
+16,Thomas Collier,JR,G,215.0,81,Auburn
+0,Makai Mason,SR,G,185.0,73,Baylor
+1,Jared Butler,FR,G,195.0,75,Baylor
+2,Mario Kegler,SO,G,230.0,79,Baylor
+3,Devonte Bandoo,JR,G,185.0,75,Baylor
+4,King McClure,SR,G,215.0,75,Baylor
+5,Mark Vital,SO,F,250.0,77,Baylor
+6,Tristan Clark,SO,F,235.0,82,Baylor
+7,Matthew Mayer,FR,G,225.0,81,Baylor
+8,Freddie Gillespie,JR,F,245.0,81,Baylor
+9,Flo Thamba,FR,F,245.0,82,Baylor
+10,Darius Allen,JR,G,210.0,77,Baylor
+11,Obim Okeke,JR,G,225.0,72,Baylor
+0,Dylan Windler,SR,F,200.0,80,Belmont
+1,Kevin McClain,SR,G,190.0,75,Belmont
+2,Nick Muszynski,FR,C,235.0,83,Belmont
+3,Grayson Murphy,FR,G,175.0,74,Belmont
+4,Nick Hopkins,SO,G,174.0,72,Belmont
+5,Caleb Hollander,FR,F,235.0,80,Belmont
+6,Seth Adelsperger,JR,C,230.0,83,Belmont
+7,Michael Benkert,JR,G,200.0,76,Belmont
+8,Adam Kunkel,FR,G,176.0,76,Belmont
+9,Derek Sabin,FR,F,230.0,81,Belmont
+10,Tate Pierson,FR,G,210.0,78,Belmont
+11,Garrett Suedekum,SO,G,170.0,74,Belmont
+12,Michael Mayernick,FR,G,150.0,68,Belmont
+0,Darrell Brown,JR,G,190.0,70,Bradley
+1,Elijah Childs,SO,F,230.0,80,Bradley
+2,Nate Kennell,JR,G,210.0,78,Bradley
+3,Dwayne Lautier-Ogunleye,SR,G,210.0,76,Bradley
+4,Koch Bar,JR,C,230.0,83,Bradley
+5,Luuk van Bree,SR,F,225.0,81,Bradley
+6,Ja'Shon Henry,FR,F,230.0,78,Bradley
+7,Luqman Lundy,SR,G,200.0,75,Bradley
+8,Antoine Pittman,JR,G,210.0,75,Bradley
+9,Jayden Hodgson,JR,G,195.0,75,Bradley
+10,Ari Boya,FR,C,245.0,85,Bradley
+11,Armon Brummett,FR,G,205.0,76,Bradley
+12,Peter Hanley,SR,F,220.0,79,Bradley
+0,C.J. Massinburg,SR,G,194.0,75,Buffalo
+1,Nick Perkins,SR,F,250.0,80,Buffalo
+2,Jeremy Harris,SR,G,185.0,79,Buffalo
+3,Jayvon Graves,SO,G,200.0,75,Buffalo
+4,Dontay Caruthers,SR,G,191.0,73,Buffalo
+5,Davonta Jordan,JR,G,190.0,74,Buffalo
+6,Montell McRae,SR,F,198.0,82,Buffalo
+7,Jeenathan Williams,FR,F,206.0,77,Buffalo
+8,Ronaldo Segu,FR,G,160.0,72,Buffalo
+9,Tra'Von Fagan,SO,F,208.0,80,Buffalo
+10,Brock Bertram,SO,C,242.0,83,Buffalo
+11,Dominic Johnson,SO,F,220.0,77,Buffalo
+0,Jarron Cumberland,JR,G,210.0,77,Cincinnati
+1,Keith Williams,SO,G,215.0,77,Cincinnati
+2,Tre Scott,JR,F,225.0,80,Cincinnati
+3,Justin Jenifer,SR,G,175.0,70,Cincinnati
+4,Cane Broome,SR,G,165.0,72,Cincinnati
+5,Nysier Brooks,JR,C,240.0,84,Cincinnati
+6,Rashawn Fredericks,JR,G,200.0,77,Cincinnati
+7,Trevor Moore,SO,G,195.0,77,Cincinnati
+8,Logan Johnson,FR,G,170.0,74,Cincinnati
+9,Mamoudou Diarra,FR,F,225.0,81,Cincinnati
+10,Eliel Nsoseme,SO,F,225.0,80,Cincinnati
+11,Sam Martin,SO,G,170.0,70,Cincinnati
+12,John Koz,JR,G,200.0,73,Cincinnati
+0,Rapolas Ivanauskas,SO,F,235.0,82,Colgate
+1,Jordan Burns,SO,G,175.0,72,Colgate
+2,Will Rayman,JR,F,215.0,81,Colgate
+3,Tucker Richardson,FR,G,205.0,77,Colgate
+4,Jack Ferguson,SO,G,180.0,75,Colgate
+5,Dana Batt,SR,C,225.0,81,Colgate
+6,Malcolm Regisford,SR,F,225.0,80,Colgate
+7,Francisco Amiel,SR,G,180.0,74,Colgate
+8,Zach Light,FR,G,195.0,75,Colgate
+9,Sam Lindgren,SR,F,210.0,78,Colgate
+10,Hugh Baxter,SO,F,210.0,80,Colgate
+0,R.J. Barrett,FR,F,202.0,79,Duke
+1,Zion Williamson,FR,F,285.0,79,Duke
+2,Cam Reddish,FR,F,218.0,80,Duke
+3,Tre Jones,FR,G,185.0,75,Duke
+4,Marques Bolden,JR,C,250.0,83,Duke
+5,Alex O'Connell,SO,G,180.0,78,Duke
+6,Javin DeLaurier,JR,F,237.0,82,Duke
+7,Jack White,JR,F,222.0,79,Duke
+8,Jordan Goldwire,SO,G,184.0,74,Duke
+9,Antonio Vrankovic,SR,C,269.0,84,Duke
+10,Justin Robinson,JR,F,202.0,81,Duke
+11,Brennan Besser,SR,G,190.0,77,Duke
+12,Joey Baker,FR,F,201.0,78,Duke
+13,Mike Buckmire,SO,G,175.0,74,Duke
+0,Darnell Edge,SR,G,185.0,74,Fairleigh Dickinson
+1,Jahlil Jenkins,SO,G,160.0,72,Fairleigh Dickinson
+2,Mike Holloway,SR,F,245.0,80,Fairleigh Dickinson
+3,Kaleb Bishop,JR,F,210.0,80,Fairleigh Dickinson
+4,Xzavier Malone-Key,SO,G,186.0,76,Fairleigh Dickinson
+5,Elyjah Williams,SO,F,220.0,79,Fairleigh Dickinson
+6,Brandon Powell,FR,G,185.0,74,Fairleigh Dickinson
+7,Tyler Jones,SO,G,165.0,71,Fairleigh Dickinson
+8,Bassel Sabliba,FR,G,190.0,76,Fairleigh Dickinson
+9,Oscar Okeke,SO,C,225.0,84,Fairleigh Dickinson
+10,Pat McNamara,JR,G,190.0,77,Fairleigh Dickinson
+11,Nadi Beciri,SR,F,215.0,79,Fairleigh Dickinson
+0,KeVaughn Allen,SR,G,193.0,74,Florida
+1,Noah Locke,FR,G,203.0,75,Florida
+2,Jalen Hudson,SR,G,195.0,78,Florida
+3,Kevarrius Hayes,SR,C,227.0,81,Florida
+4,Keyontae Johnson,FR,F,229.0,77,Florida
+5,Andrew Nembhard,FR,G,193.0,77,Florida
+6,Deaundrae Ballard,SO,G,181.0,77,Florida
+7,Keith Stone,JR,F,244.0,80,Florida
+8,Dontay Bassett,SO,F,245.0,81,Florida
+9,Isaiah Stokes,FR,F,250.0,80,Florida
+10,Mike Okauru,SO,G,185.0,75,Florida
+11,Andrew Fava,SO,G,171.0,70,Florida
+12,Chase Johnson,FR,F,226.0,81,Florida
+13,Mak Krause,SR,G,172.0,74,Florida
+0,Mfiondu Kabengele,SO,F,250.0,82,Florida State
+1,Terance Mann,SR,G,215.0,79,Florida State
+2,Trent Forrest,JR,G,210.0,76,Florida State
+3,M.J. Walker,SO,G,213.0,77,Florida State
+4,Christ Koumadje,SR,C,268.0,88,Florida State
+5,David Nichols,SR,G,185.0,73,Florida State
+6,PJ Savoy,SR,G,210.0,76,Florida State
+7,Phil Cofer,SR,F,230.0,80,Florida State
+8,Devin Vassell,FR,G,180.0,78,Florida State
+9,Raiquan Gray,FR,F,260.0,80,Florida State
+10,Anthony Polite,FR,G,215.0,78,Florida State
+11,Wyatt Wilkes,FR,F,220.0,80,Florida State
+12,Harrison Prieto,SO,F,230.0,80,Florida State
+13,Justin Lindner,JR,G,180.0,73,Florida State
+14,Will Miles,SO,F,220.0,78,Florida State
+15,Travis Light,SO,G,180.0,77,Florida State
+0,David Efianayi,SR,G,185.0,74,Gardner-Webb
+1,Jose Perez,FR,G,210.0,77,Gardner-Webb
+2,DJ Laster,SR,F,230.0,78,Gardner-Webb
+3,Nate Johnson,SO,G,195.0,76,Gardner-Webb
+4,Eric Jamison,JR,F,195.0,78,Gardner-Webb
+5,Jaheam Cornwall,SO,G,175.0,72,Gardner-Webb
+6,Christian Turner,JR,G,180.0,70,Gardner-Webb
+7,Justin Jenkins,SR,G,200.0,74,Gardner-Webb
+8,Brandon Miller,SR,F,250.0,78,Gardner-Webb
+9,Ludovic Dufeal,FR,F,200.0,80,Gardner-Webb
+10,Jaylen Alston,FR,F,190.0,76,Gardner-Webb
+11,Kennedy Kincaid,FR,G,170.0,70,Gardner-Webb
+0,D'Marcus Simonds,JR,G,195.0,75,Georgia State
+1,Malik Benlevi,SR,F,225.0,78,Georgia State
+2,Jeff Thomas,SR,G,190.0,77,Georgia State
+3,Kane Williams,SO,G,190.0,75,Georgia State
+4,Devin Mitchell,SR,G,190.0,76,Georgia State
+5,Damon Wilson,JR,G,190.0,77,Georgia State
+6,Nelson Phillips,FR,G,185.0,75,Georgia State
+7,Jordan Tyson,SR,F,220.0,81,Georgia State
+8,Josh Linder,SO,F,210.0,80,Georgia State
+9,Kavonte Ivery,FR,F,215.0,78,Georgia State
+10,Matt Chism,SO,G,185.0,75,Georgia State
+11,Chris Clerkley,JR,F,240.0,80,Georgia State
+12,James Wall,FR,F,190.0,80,Georgia State
+0,Rui Hachimura,JR,F,230.0,80,Gonzaga
+1,Brandon Clarke,JR,F,215.0,80,Gonzaga
+2,Zach Norvell,SO,G,205.0,77,Gonzaga
+3,Josh Perkins,SR,G,190.0,75,Gonzaga
+4,Corey Kispert,SO,F,220.0,79,Gonzaga
+5,Filip Petrusev,FR,F,235.0,83,Gonzaga
+6,Geno Crandall,SR,G,175.0,75,Gonzaga
+7,Jeremy Jones,SR,F,213.0,79,Gonzaga
+8,Killian Tillie,JR,F,220.0,82,Gonzaga
+9,Joel Ayayi,FR,G,180.0,77,Gonzaga
+10,Greg Foster,FR,G,195.0,77,Gonzaga
+11,Jack Beach,JR,G,180.0,75,Gonzaga
+12,Matthew Lang,FR,G,185.0,75,Gonzaga
+13,Alex Martin,JR,G,205.0,77,Gonzaga
+0,Corey Davis,SR,G,190.0,73,Houston
+1,Armoni Brooks,JR,G,195.0,75,Houston
+2,Galen Robinson,SR,G,190.0,73,Houston
+3,Nate Hinton,FR,G,210.0,77,Houston
+4,Dejon Jarreau,SO,G,185.0,77,Houston
+5,Breaon Brady,SR,F,260.0,80,Houston
+6,Fabian White,SO,F,225.0,80,Houston
+7,Cedrick Alley,FR,F,230.0,78,Houston
+8,Brison Gresham,SO,F,230.0,80,Houston
+9,Chris Harris,JR,C,255.0,82,Houston
+10,Landon Goesling,SR,G,175.0,74,Houston
+11,Caleb Broodo,FR,C,240.0,80,Houston
+0,E.J. Crawford,JR,G,210.0,78,Iona
+1,Rickey McGill,SR,G,185.0,74,Iona
+2,Tajuan Agee,JR,F,225.0,81,Iona
+3,Asante Gist,SO,G,185.0,71,Iona
+4,Ben Perez,JR,G,180.0,76,Iona
+5,Andrija Ristanovic,FR,F,215.0,83,Iona
+6,Isaiah Still,JR,G,195.0,79,Iona
+7,Jahnathan Maxwell,JR,F,230.0,78,Iona
+8,Niksa Nikolic,JR,F,235.0,80,Iona
+9,Payton Hudson,FR,G,185.0,72,Iona
+10,Malik Rhem,JR,G,170.0,75,Iona
+0,Tyler Cook,JR,F,250.0,81,Iowa
+1,Luka Garza,SO,F,265.0,83,Iowa
+2,Jordan Bohannon,JR,G,175.0,73,Iowa
+3,Joe Wieskamp,FR,G,212.0,78,Iowa
+4,Isaiah Moss,JR,G,208.0,77,Iowa
+5,Nicholas Baer,SR,F,218.0,79,Iowa
+6,Ryan Kriener,JR,F,255.0,82,Iowa
+7,Connor McCaffery,FR,G,205.0,77,Iowa
+8,Maishe Dailey,JR,G,195.0,79,Iowa
+9,Riley Till,SO,F,200.0,79,Iowa
+10,Austin Ash,FR,G,179.0,75,Iowa
+11,Nicolas Hobbs,SO,G,200.0,74,Iowa
+12,Cordell Pemsl,JR,F,250.0,81,Iowa
+13,Michael Baer,SO,F,215.0,79,Iowa
+0,Marial Shayok,SR,G,198.0,78,Iowa State
+1,Talen Horton-Tucker,FR,G,233.0,76,Iowa State
+2,Michael Jacobson,JR,F,240.0,81,Iowa State
+3,Lindell Wigginton,SO,G,189.0,74,Iowa State
+4,Nick Weiler-Babb,SR,G,205.0,77,Iowa State
+5,Tyrese Haliburton,FR,G,175.0,77,Iowa State
+6,Cameron Lard,SO,F,245.0,81,Iowa State
+7,Terrence Lewis,SO,G,200.0,78,Iowa State
+8,George Conditt,FR,F,245.0,82,Iowa State
+9,Zoran Talley,SR,F,198.0,79,Iowa State
+10,Zion Griffin,FR,F,215.0,78,Iowa State
+11,Solomon Young,JR,F,255.0,80,Iowa State
+12,Nate Schuster,FR,G,187.0,76,Iowa State
+13,Eric Steyer,FR,G,180.0,77,Iowa State
+14,Carter Boothe,FR,G,199.0,73,Iowa State
+0,Dedric Lawson,JR,F,235.0,81,Kansas
+1,Devon Dotson,FR,G,185.0,74,Kansas
+2,Lagerald Vick,SR,G,190.0,77,Kansas
+3,Quentin Grimes,FR,G,205.0,77,Kansas
+4,Marcus Garrett,SO,G,195.0,77,Kansas
+5,Ochai Agbaji,FR,G,210.0,77,Kansas
+6,David McCormack,FR,F,265.0,82,Kansas
+7,Udoka Azubuike,JR,C,270.0,84,Kansas
+8,K.J. Lawson,JR,F,215.0,79,Kansas
+9,Charlie Moore,SO,G,180.0,71,Kansas
+10,Mitch Lightfoot,JR,F,225.0,80,Kansas
+11,Chris Teahan,SO,G,195.0,76,Kansas
+12,Garrett Luinstra,FR,G,155.0,74,Kansas
+0,Barry Brown,SR,G,195.0,75,Kansas State
+1,Kamau Stokes,SR,G,170.0,72,Kansas State
+2,Xavier Sneed,JR,F,215.0,77,Kansas State
+3,Dean Wade,SR,F,228.0,82,Kansas State
+4,Makol Mawien,JR,C,228.0,81,Kansas State
+5,Cartier Diarra,SO,G,185.0,76,Kansas State
+6,Mike McGuirl,SO,G,195.0,74,Kansas State
+7,Levi Stockard,SO,F,240.0,80,Kansas State
+8,Austin Trice,JR,F,235.0,79,Kansas State
+9,Shaun Williams,FR,G,175.0,75,Kansas State
+10,Pierson McAtee,JR,F,200.0,78,Kansas State
+11,James Love,SO,F,240.0,83,Kansas State
+12,Nigel Shadd,FR,F,250.0,81,Kansas State
+13,Patrick Muldoon,JR,F,210.0,79,Kansas State
+0,PJ Washington,SO,F,228.0,80,Kentucky
+1,Tyler Herro,FR,G,195.0,77,Kentucky
+2,Keldon Johnson,FR,G,211.0,78,Kentucky
+3,Reid Travis,SR,F,238.0,80,Kentucky
+4,Ashton Hagans,FR,G,198.0,75,Kentucky
+5,Immanuel Quickley,FR,G,188.0,75,Kentucky
+6,Nick Richards,SO,F,247.0,83,Kentucky
+7,EJ Montgomery,FR,F,228.0,82,Kentucky
+8,Quade Green,SO,G,170.0,72,Kentucky
+9,Jemarl Baker,FR,G,195.0,77,Kentucky
+10,Jonny David,SR,G,188.0,74,Kentucky
+0,Scottie James,JR,F,235.0,80,Liberty
+1,Caleb Homesley,JR,G,205.0,78,Liberty
+2,Lovell Cabbil,SR,G,170.0,75,Liberty
+3,Darius McGhee,FR,G,160.0,69,Liberty
+4,Elijah Cuffee,SO,F,185.0,76,Liberty
+5,Georgie Pacheco-Ortiz,JR,G,170.0,73,Liberty
+6,Keenan Gumbs,SR,F,,77,Liberty
+7,Myo Baxter-Bell,JR,F,255.0,77,Liberty
+8,Keegan McDowell,SO,F,180.0,78,Liberty
+9,Brendan Newton,FR,C,235.0,86,Liberty
+10,Zach Farquhar,SR,G,160.0,69,Liberty
+0,Jordan Nwora,SO,F,225.0,79,Louisville
+1,Dwayne Sutton,JR,F,220.0,77,Louisville
+2,Christen Cunningham,SR,G,190.0,74,Louisville
+3,Steven Enoch,JR,F,255.0,82,Louisville
+4,Malik Williams,SO,C,250.0,83,Louisville
+5,Ryan McMahon,JR,G,185.0,72,Louisville
+6,Darius Perry,SO,G,195.0,74,Louisville
+7,V.J. King,JR,F,215.0,78,Louisville
+8,Khwan Fore,SR,G,185.0,72,Louisville
+9,Akoy Agau,SR,F,240.0,80,Louisville
+10,Jacob Redding,SO,G,180.0,72,Louisville
+11,Jo Griffin,SO,G,200.0,73,Louisville
+12,Wyatt Battaile,FR,G,195.0,76,Louisville
+0,Tremont Waters,SO,G,175.0,71,LSU
+1,Skylar Mays,JR,G,205.0,76,LSU
+2,Naz Reid,FR,F,250.0,82,LSU
+3,Javonte Smart,FR,G,205.0,76,LSU
+4,Kavell Bigby-Williams,SR,F,250.0,83,LSU
+5,Emmitt Williams,FR,F,230.0,78,LSU
+6,Marlon Taylor,JR,,,77,LSU
+7,Darius Days,FR,F,245.0,79,LSU
+8,Daryl Edwards,SR,G,185.0,75,LSU
+9,Marshall Graves,JR,G,195.0,76,LSU
+10,Will Reese,SO,G,205.0,75,LSU
+0,Markus Howard,JR,G,180.0,71,Marquette
+1,Sam Hauser,JR,F,218.0,80,Marquette
+2,Joey Hauser,FR,F,220.0,81,Marquette
+3,Sacar Anim,JR,F,210.0,77,Marquette
+4,Theo John,SO,F,255.0,81,Marquette
+5,Ed Morrow,JR,F,235.0,79,Marquette
+6,Brendan Bailey,FR,F,200.0,80,Marquette
+7,Joseph Chartouny,SR,G,200.0,75,Marquette
+8,Jamal Cain,SO,F,200.0,79,Marquette
+9,Matt Heldt,SR,C,240.0,82,Marquette
+10,Cam Marotta,SR,G,175.0,70,Marquette
+11,Tommy Gardiner,FR,F,230.0,79,Marquette
+12,Buddy Jaffee,FR,G,195.0,75,Marquette
+13,Mike Lelito,SO,G,190.0,77,Marquette
+0,Anthony Cowan,JR,G,180.0,72,Maryland
+1,Bruno Fernando,SO,F,240.0,82,Maryland
+2,Jalen Smith,FR,F,225.0,82,Maryland
+3,Eric Ayala,FR,G,195.0,77,Maryland
+4,Aaron Wiggins,FR,G,200.0,78,Maryland
+5,Darryl Morsell,SO,G,200.0,77,Maryland
+6,Serrel Smith,FR,G,175.0,76,Maryland
+7,Ricky Lindo,FR,F,220.0,80,Maryland
+8,Joshua Tomaic,SO,F,230.0,81,Maryland
+9,Ivan Bender,SR,F,228.0,81,Maryland
+10,Travis Valmon,JR,G,190.0,73,Maryland
+11,Reese Mona,SO,G,180.0,74,Maryland
+12,Andrew Terrell,SR,G,190.0,70,Maryland
+13,Trace Ramsey,FR,F,200.0,79,Maryland
+14,Will Clark,JR,F,195.0,80,Maryland
+0,Ignas Brazdeikis,FR,F,215.0,79,Michigan
+1,Jordan Poole,SO,G,195.0,77,Michigan
+2,Charles Matthews,SR,G,205.0,78,Michigan
+3,Jon Teske,JR,C,265.0,85,Michigan
+4,Zavier Simpson,JR,G,190.0,72,Michigan
+5,Isaiah Livers,SO,F,230.0,79,Michigan
+6,Eli Brooks,SO,G,185.0,73,Michigan
+7,Austin Davis,SO,F,250.0,82,Michigan
+8,Brandon Johns,FR,F,240.0,80,Michigan
+9,Colin Castleton,FR,F,231.0,83,Michigan
+10,David Dejulius,FR,G,195.0,72,Michigan
+11,C.J. Baird,SO,F,225.0,77,Michigan
+12,Adrien Nunez,FR,G,210.0,78,Michigan
+13,Rico Ozuna-Harrison,SO,G,175.0,71,Michigan
+14,Luke Wilson,SO,G,175.0,72,Michigan
+0,Cassius Winston,JR,G,185.0,73,Michigan State
+1,Nick Ward,JR,F,245.0,81,Michigan State
+2,Xavier Tillman,SO,F,245.0,80,Michigan State
+3,Matt McQuaid,SR,G,200.0,77,Michigan State
+4,Kenny Goins,SR,F,230.0,79,Michigan State
+5,Aaron Henry,FR,F,210.0,78,Michigan State
+6,Joshua Langford,JR,G,200.0,77,Michigan State
+7,Kyle Ahrens,JR,G,210.0,78,Michigan State
+8,Gabe Brown,FR,F,210.0,79,Michigan State
+9,Foster Loyer,FR,G,175.0,72,Michigan State
+10,Thomas Kithier,FR,F,230.0,80,Michigan State
+11,Marcus Bingham,FR,F,225.0,83,Michigan State
+12,Conner George,JR,G,205.0,76,Michigan State
+13,Jack Hoiberg,FR,G,175.0,71,Michigan State
+14,Braden Burke,SO,C,245.0,84,Michigan State
+15,Brock Washington,FR,G,200.0,76,Michigan State
+0,Amir Coffey,JR,G,210.0,80,Minnesota
+1,Jordan Murphy,SR,G,,68,Minnesota
+2,Daniel Oturu,FR,C,240.0,82,Minnesota
+3,Gabe Kalscheur,FR,G,200.0,76,Minnesota
+4,Dupree McBrayer,SR,G,195.0,77,Minnesota
+5,Isaiah Washington,SO,G,195.0,73,Minnesota
+6,Matz Stockman,SR,C,245.0,84,Minnesota
+7,Eric Curry,SO,F,240.0,81,Minnesota
+8,Michael Hurt,JR,F,220.0,79,Minnesota
+9,Brock Stull,SR,G,210.0,76,Minnesota
+10,Jarvis Omersa,FR,F,235.0,78,Minnesota
+11,Hunt Conroy,SO,G,165.0,70,Minnesota
+12,Brady Rudrud,JR,G,190.0,74,Minnesota
+0,Breein Tyree,JR,G,195.0,74,Mississippi
+1,Terence Davis,SR,G,205.0,76,Mississippi
+2,Devontae Shuler,SO,G,185.0,74,Mississippi
+3,Bruce Stevens,SR,F,252.0,80,Mississippi
+4,Blake Hinson,FR,G,235.0,79,Mississippi
+5,KJ Buffen,FR,F,230.0,79,Mississippi
+6,Dominik Olejniczak,JR,C,260.0,84,Mississippi
+7,D.C. Davis,SR,G,185.0,71,Mississippi
+8,Luis Rodriguez,FR,G,210.0,78,Mississippi
+9,Brian Halums,JR,G,188.0,77,Mississippi
+10,Zach Naylor,JR,F,220.0,80,Mississippi
+11,Antonio Morgano,SO,G,173.0,70,Mississippi
+0,Quinndary Weatherspoon,SR,G,205.0,76,Mississippi State
+1,Lamar Peters,JR,G,185.0,72,Mississippi State
+2,Tyson Carter,JR,G,175.0,76,Mississippi State
+3,Reggie Perry,FR,F,250.0,82,Mississippi State
+4,Aric Holman,SR,F,225.0,82,Mississippi State
+5,Nick Weatherspoon,SO,G,185.0,74,Mississippi State
+6,Robert Woodard,FR,G,230.0,79,Mississippi State
+7,Abdul Ado,SO,F,255.0,83,Mississippi State
+8,KeyShawn Feazell,SO,F,235.0,81,Mississippi State
+9,T.J. Gray,JR,G,165.0,72,Mississippi State
+10,E.J. Datcher,JR,C,255.0,82,Mississippi State
+11,Tate Clayton,SO,G,170.0,74,Mississippi State
+12,Mitchell Storm,JR,F,200.0,79,Mississippi State
+0,Sayeed Pridgett,JR,G,201.0,77,Montana
+1,Ahmaad Rorie,SR,G,175.0,73,Montana
+2,Michael Oguine,SR,G,171.0,74,Montana
+3,Kendal Manuel,JR,G,190.0,76,Montana
+4,Jamar Akoh,SR,F,253.0,80,Montana
+5,Donaven Dorsey,SR,G,214.0,79,Montana
+6,Bobby Moorehead,SR,G,182.0,79,Montana
+7,Timmy Falls,SO,G,170.0,74,Montana
+8,Mack Anderson,FR,F,208.0,81,Montana
+9,Kelby Kramer,FR,C,220.0,82,Montana
+10,Freddy Brown,FR,G,178.0,74,Montana
+11,Ben Carter,FR,F,275.0,82,Montana
+12,Peter Jones,FR,F,210.0,80,Montana
+0,Ja Morant,SO,G,175.0,75,Murray State
+1,Leroy Buchanan,SR,G,190.0,75,Murray State
+2,Tevin Brown,FR,G,175.0,77,Murray State
+3,Darnell Cowart,JR,F,280.0,80,Murray State
+4,K.J. Williams,FR,F,245.0,82,Murray State
+5,Jaiveon Eaves,JR,G,205.0,74,Murray State
+6,Brion Whitley,SO,G,200.0,76,Murray State
+7,Devin Gilmore,SO,F,200.0,78,Murray State
+8,Brion Sanchious,SR,F,245.0,80,Murray State
+9,Mike Davis,JR,F,210.0,79,Murray State
+10,Anthony Smith,SR,F,225.0,79,Murray State
+11,Jalen Johnson,FR,G,180.0,73,Murray State
+12,DaQuan Smith,FR,G,185.0,73,Murray State
+0,Caleb Martin,SR,F,205.0,79,Nevada
+1,Jordan Caroline,SR,F,230.0,79,Nevada
+2,Cody Martin,SR,F,205.0,79,Nevada
+3,Jazz Johnson,JR,G,180.0,70,Nevada
+4,Tre'Shawn Thurman,SR,F,230.0,79,Nevada
+5,Trey Porter,SR,F,230.0,83,Nevada
+6,Jordan Brown,FR,F,235.0,83,Nevada
+7,Corey Henson,SR,G,175.0,75,Nevada
+8,Nisre Zouzoua,JR,G,195.0,75,Nevada
+9,David Cunningham,SR,G,195.0,76,Nevada
+10,Zach Wurm,JR,G,216.0,76,Nevada
+0,Terrell Brown,JR,G,170.0,73,New Mexico State
+1,A.J. Harris,JR,G,170.0,69,New Mexico State
+2,Ivan Aurrecoechea,JR,F,235.0,80,New Mexico State
+3,Eli Chuha,SR,F,230.0,79,New Mexico State
+4,JoJo Zamora,SR,G,180.0,74,New Mexico State
+5,Trevelin Queen,JR,G,190.0,78,New Mexico State
+6,Johnny McCants,SO,F,235.0,79,New Mexico State
+7,Clayton Henry,JR,G,200.0,76,New Mexico State
+8,C.J. Bobbitt,JR,F,220.0,79,New Mexico State
+9,Mohamed Thiam,JR,F,210.0,81,New Mexico State
+10,Sir'Jabari Rice,FR,G,180.0,76,New Mexico State
+11,Keyon Jones,SR,G,195.0,73,New Mexico State
+12,Shunn Buchanan,JR,G,170.0,72,New Mexico State
+13,Berrick JeanLouis,FR,F,195.0,77,New Mexico State
+14,Robert Brown,FR,F,235.0,81,New Mexico State
+0,Cameron Johnson,SR,G,210.0,81,North Carolina
+1,Coby White,FR,G,185.0,77,North Carolina
+2,Luke Maye,SR,F,240.0,80,North Carolina
+3,Nassir Little,FR,F,220.0,78,North Carolina
+4,Kenny Williams,SR,G,185.0,76,North Carolina
+5,Garrison Brooks,SO,F,240.0,82,North Carolina
+6,Brandon Robinson,JR,G,173.0,77,North Carolina
+7,Seventh Woods,JR,G,189.0,74,North Carolina
+8,Sterling Manley,SO,F,250.0,83,North Carolina
+9,Leaky Black,FR,G,195.0,80,North Carolina
+10,Andrew Platek,SO,G,205.0,76,North Carolina
+11,Brandon Huffman,SO,F,225.0,82,North Carolina
+12,K.J. Smith,SO,G,170.0,74,North Carolina
+13,Walker Miller,SO,F,235.0,83,North Carolina
+14,Caleb Ellis,JR,G,190.0,77,North Carolina
+15,Shea Rush,JR,F,210.0,77,North Carolina
+0,Vinnie Shahid,JR,G,190.0,71,North Dakota State
+1,Tyson Ward,JR,G,195.0,78,North Dakota State
+2,Deng Geu,JR,F,201.0,80,North Dakota State
+3,Rocky Kreuser,SO,F,245.0,82,North Dakota State
+4,Jared Samuelson,JR,G,185.0,75,North Dakota State
+5,Tyree Eady,FR,G,210.0,77,North Dakota State
+6,Cameron Hunter,SO,G,180.0,75,North Dakota State
+7,Sam Griesel,FR,G,215.0,78,North Dakota State
+8,Jordan Horn,SO,G,195.0,74,North Dakota State
+9,Chris Quayle,JR,G,190.0,77,North Dakota State
+10,Jarius Cook,FR,G,180.0,75,North Dakota State
+11,Jaxon Knotek,FR,G,215.0,78,North Dakota State
+0,Jordan Roland,JR,G,171.0,73,Northeastern
+1,Vasa Pusica,SR,G,210.0,77,Northeastern
+2,Bolden Brace,JR,G,225.0,78,Northeastern
+3,Donnell Gresham,JR,G,195.0,75,Northeastern
+4,Anthony Green,SR,C,252.0,82,Northeastern
+5,Tomas Murphy,SO,F,230.0,80,Northeastern
+6,Shawn Occeus,JR,G,208.0,76,Northeastern
+7,Jason Strong,SO,F,217.0,80,Northeastern
+8,Jeremy Miller,SR,F,225.0,82,Northeastern
+9,Myles Franklin,SO,G,170.0,76,Northeastern
+10,Shaquille Walters,SO,G,190.0,78,Northeastern
+0,Drew McDonald,SR,F,250.0,80,Northern Kentucky
+1,Tyler Sharpe,JR,G,200.0,72,Northern Kentucky
+2,Jalen Tate,SO,F,175.0,78,Northern Kentucky
+3,Dantez Walton,JR,G,215.0,78,Northern Kentucky
+4,Zaynah Robinson,SR,G,,64,Northern Kentucky
+5,Trevon Faulkner,FR,G,190.0,75,Northern Kentucky
+6,Chris Vogt,SO,C,260.0,85,Northern Kentucky
+7,Adrian Nelson,FR,G,220.0,79,Northern Kentucky
+8,Paul Djoko,FR,G,200.0,76,Northern Kentucky
+9,Bryant Mocaby,FR,G,200.0,77,Northern Kentucky
+10,Silas Adheke,SO,F,245.0,80,Northern Kentucky
+11,David Wassler,FR,F,225.0,82,Northern Kentucky
+12,Gerald Gray,FR,G,170.0,75,Northern Kentucky
+0,Kaleb Wesson,SO,F,270.0,81,Ohio State
+1,C.J. Jackson,SR,G,175.0,73,Ohio State
+2,Andre Wesson,JR,F,220.0,78,Ohio State
+3,Keyshawn Woods,SR,G,205.0,75,Ohio State
+4,Luther Muhammad,FR,G,185.0,75,Ohio State
+5,Duane Washington,FR,G,210.0,75,Ohio State
+6,Kyle Young,SO,F,225.0,80,Ohio State
+7,Musa Jallow,SO,G,210.0,77,Ohio State
+8,Justin Ahrens,FR,F,195.0,78,Ohio State
+9,Jaedon Ledee,FR,F,240.0,81,Ohio State
+10,Joey Lane,SR,G,180.0,73,Ohio State
+11,Danny Hummer,JR,G,175.0,72,Ohio State
+12,Harrison Hookfin,FR,F,195.0,78,Ohio State
+0,Christian James,SR,G,213.0,76,Oklahoma
+1,Brady Manek,SO,F,231.0,81,Oklahoma
+2,Kristian Doolittle,JR,F,232.0,79,Oklahoma
+3,Rashard Odomes,SR,G,217.0,78,Oklahoma
+4,Miles Reynolds,SR,G,176.0,75,Oklahoma
+5,Aaron Calixte,SR,G,179.0,71,Oklahoma
+6,Jamal Bieniemy,FR,G,187.0,77,Oklahoma
+7,Jamuni McNeace,SR,C,232.0,82,Oklahoma
+8,Matt Freeman,JR,F,220.0,82,Oklahoma
+9,Hannes Polla,SO,C,270.0,83,Oklahoma
+10,Patrick Geha,SR,F,212.0,77,Oklahoma
+11,Kur Kuath,JR,F,220.0,82,Oklahoma
+12,Read Streller,SO,F,213.0,80,Oklahoma
+0,B.J. Stith,SR,G,205.0,77,Old Dominion
+1,Ahmad Caver,SR,G,175.0,74,Old Dominion
+2,Xavier Green,SO,G,200.0,78,Old Dominion
+3,Justice Kithcart,SO,G,185.0,73,Old Dominion
+4,Kalu Ezikpe,FR,F,235.0,80,Old Dominion
+5,Jason Wade,FR,G,205.0,77,Old Dominion
+6,Dajour Dickens,SO,C,215.0,84,Old Dominion
+7,Marquis Godwin,SO,G,195.0,77,Old Dominion
+8,Aaron Carver,JR,F,225.0,79,Old Dominion
+9,Elbert Robinson,SR,C,285.0,85,Old Dominion
+10,Joseph Reece,FR,F,200.0,80,Old Dominion
+11,Loren Brill,SO,G,190.0,72,Old Dominion
+12,Quishon Harris,FR,G,140.0,70,Old Dominion
+0,Payton Pritchard,JR,G,190.0,74,Oregon
+1,Louis King,FR,F,205.0,81,Oregon
+2,Paul White,SR,F,230.0,81,Oregon
+3,Victor Bailey,SO,G,179.0,76,Oregon
+4,Will Richardson,FR,G,180.0,77,Oregon
+5,Ehab Amin,SR,G,200.0,76,Oregon
+6,Kenny Wooten,SO,F,235.0,81,Oregon
+7,Bol Bol,FR,C,235.0,86,Oregon
+8,Francis Okoro,FR,F,235.0,81,Oregon
+9,Miles Norris,FR,F,220.0,82,Oregon
+10,Abu Kigab,SO,F,220.0,79,Oregon
+11,Will Johnson,FR,G,180.0,73,Oregon
+12,Luke Osborn,SO,G,200.0,78,Oregon
+0,Carsen Edwards,JR,G,200.0,73,Purdue
+1,Ryan Cline,SR,G,195.0,78,Purdue
+2,Matt Haarms,SO,C,250.0,87,Purdue
+3,Nojel Eastern,SO,G,225.0,79,Purdue
+4,Grady Eifert,SR,F,220.0,78,Purdue
+5,Trevion Williams,FR,F,265.0,82,Purdue
+6,Aaron Wheeler,FR,F,205.0,81,Purdue
+7,Evan Boudreaux,JR,F,220.0,80,Purdue
+8,Sasha Stefanovic,FR,G,200.0,77,Purdue
+9,Eric Hunter,FR,G,170.0,76,Purdue
+10,Tommy Luce,JR,G,160.0,70,Purdue
+11,Kyle King,FR,F,215.0,78,Purdue
+0,Javon Bess,SR,F,220.0,78,Saint Louis
+1,Tramaine Isabell,SR,G,180.0,73,Saint Louis
+2,Jordan Goodwin,SO,G,200.0,75,Saint Louis
+3,Hasahn French,SO,F,240.0,79,Saint Louis
+4,D.J. Foreman,SR,F,240.0,80,Saint Louis
+5,Fred Thatch,FR,G,215.0,75,Saint Louis
+6,Dion Wiley,SR,G,210.0,76,Saint Louis
+7,Carte'Are Gordon,FR,F,240.0,81,Saint Louis
+8,KC Hankton,FR,F,217.0,79,Saint Louis
+9,Demarius Jacobs,FR,G,185.0,74,Saint Louis
+10,Jack Raboin,JR,G,205.0,78,Saint Louis
+11,Brandon Courtney,FR,G,180.0,75,Saint Louis
+12,Ingvi Gudmundsson,FR,G,180.0,76,Saint Louis
+13,Elliott Welmer,SO,F,220.0,81,Saint Louis
+0,Jordan Ford,JR,F,,70,Saint Mary's
+1,Malik Fitts,SO,F,230.0,80,Saint Mary's
+2,Tanner Krebs,JR,G,205.0,78,Saint Mary's
+3,Jordan Hunter,SR,F,230.0,82,Saint Mary's
+4,Tommy Kuhse,SO,G,185.0,74,Saint Mary's
+5,Matthias Tass,FR,F,245.0,82,Saint Mary's
+6,Elijah Thomas,SO,F,220.0,77,Saint Mary's
+7,Dan Fotu,FR,F,225.0,79,Saint Mary's
+8,Jock Perry,SO,C,250.0,85,Saint Mary's
+9,Quinn Clinton,FR,G,185.0,75,Saint Mary's
+10,Alex Mudronja,FR,G,195.0,77,Saint Mary's
+11,Kyle Clark,JR,F,220.0,79,Saint Mary's
+12,Dan Sheets,JR,F,205.0,77,Saint Mary's
+0,Myles Powell,JR,G,195.0,74,Seton Hall
+1,Myles Cale,SO,G,210.0,78,Seton Hall
+2,Quincy McKnight,JR,G,185.0,76,Seton Hall
+3,Michael Nzei,SR,F,205.0,80,Seton Hall
+4,Sandro Mamukelashvili,SO,F,240.0,83,Seton Hall
+5,Taurean Thompson,SO,F,245.0,83,Seton Hall
+6,Jared Rhoden,FR,G,210.0,78,Seton Hall
+7,Anthony Nelson,FR,G,180.0,76,Seton Hall
+8,Shavar Reynolds,SO,G,185.0,74,Seton Hall
+9,Romaro Gill,JR,C,255.0,86,Seton Hall
+10,Darnell Brodie,FR,F,275.0,82,Seton Hall
+11,Asiah Avent,JR,G,190.0,75,Seton Hall
+0,Tyus Battle,JR,G,205.0,78,Syracuse
+1,Elijah Hughes,SO,F,215.0,78,Syracuse
+2,Oshae Brissett,SO,F,210.0,80,Syracuse
+3,Frank Howard,SR,G,205.0,77,Syracuse
+4,Buddy Boeheim,FR,G,195.0,78,Syracuse
+5,Paschal Chukwu,SR,C,228.0,86,Syracuse
+6,Marek Dolezaj,SO,F,201.0,82,Syracuse
+7,Jalen Carey,FR,G,186.0,75,Syracuse
+8,Bourama Sidibe,SO,F,218.0,82,Syracuse
+9,Robert Braswell,FR,F,206.0,79,Syracuse
+10,Ky Feldman,SR,G,155.0,70,Syracuse
+11,Adrian Autry,SR,G,185.0,72,Syracuse
+12,Antonio Balandi,SR,F,210.0,78,Syracuse
+13,Ray Featherston,JR,G,150.0,68,Syracuse
+14,Brendan Paul,FR,G,175.0,74,Syracuse
+15,Howard Washington,SO,G,167.0,74,Syracuse
+0,Grant Williams,JR,F,236.0,79,Tennessee
+1,Admiral Schofield,SR,G,241.0,78,Tennessee
+2,Jordan Bone,JR,G,180.0,75,Tennessee
+3,Jordan Bowden,JR,C,,74,Tennessee
+4,Lamonte Turner,JR,G,187.0,74,Tennessee
+5,Kyle Alexander,SR,F,215.0,83,Tennessee
+6,John Fulkerson,SO,F,215.0,81,Tennessee
+7,Yves Pons,SO,F,215.0,78,Tennessee
+8,Jalen Johnson,SO,G,195.0,78,Tennessee
+9,Derrick Walker,SO,F,232.0,80,Tennessee
+10,Brad Woodson,SR,G,177.0,73,Tennessee
+11,Lucas Campbell,SR,G,185.0,76,Tennessee
+12,Jacob Fleschman,SO,G,176.0,75,Tennessee
+13,Brock Jancek,FR,F,222.0,80,Tennessee
+0,Jarrett Culver,SO,G,195.0,77,Texas Tech
+1,Davide Moretti,SO,G,180.0,75,Texas Tech
+2,Matt Mooney,SR,G,200.0,75,Texas Tech
+3,Tariq Owens,SR,F,205.0,82,Texas Tech
+4,Brandone Francis,SR,G,215.0,77,Texas Tech
+5,Kyler Edwards,FR,G,195.0,76,Texas Tech
+6,Deshawn Corprew,SO,F,210.0,77,Texas Tech
+7,Norense Odiase,SR,C,250.0,80,Texas Tech
+8,Malik Ondigo,SO,F,215.0,82,Texas Tech
+9,Parker Hicks,SO,G,210.0,78,Texas Tech
+10,Josh Mballa,FR,F,220.0,79,Texas Tech
+11,Avery Benson,FR,G,195.0,76,Texas Tech
+12,Andrew Sorrells,JR,G,175.0,75,Texas Tech
+13,Khavon Moore,FR,F,220.0,80,Texas Tech
+0,Max Hazzard,JR,G,175.0,72,UC Irvine
+1,Evan Leonard,JR,G,185.0,73,UC Irvine
+2,Collin Welp,FR,F,225.0,81,UC Irvine
+3,Robert Cartwright,SR,G,180.0,74,UC Irvine
+4,Jonathan Galloway,SR,F,235.0,82,UC Irvine
+5,Tommy Rutherford,JR,F,240.0,80,UC Irvine
+6,Eyassu Worku,JR,G,175.0,74,UC Irvine
+7,Elston Jones,SR,F,275.0,81,UC Irvine
+8,John Edgar,JR,F,215.0,77,UC Irvine
+9,Darrian Traylor,JR,G,210.0,76,UC Irvine
+10,JC Butler,FR,F,200.0,77,UC Irvine
+11,Spencer Rivers,SR,G,200.0,74,UC Irvine
+12,Solomon Ruddell,FR,C,255.0,85,UC Irvine
+0,B.J. Taylor,SR,G,195.0,74,UCF
+1,Aubrey Dawkins,JR,G,205.0,78,UCF
+2,Tacko Fall,SR,C,310.0,90,UCF
+3,Collin Smith,SO,C,240.0,83,UCF
+4,Terrell Allen,JR,G,180.0,75,UCF
+5,Chad Brown,SR,F,245.0,81,UCF
+6,Dayon Griffin,SR,G,210.0,76,UCF
+7,Frank Bertz,JR,G,180.0,77,UCF
+8,Ceasar DeJesus,SO,G,190.0,74,UCF
+9,Xavier Grant,FR,G,180.0,75,UCF
+10,Chance McSpadden,JR,G,185.0,76,UCF
+11,Ryan Anders,FR,F,220.0,78,UCF
+12,Levy Renaud,FR,G,180.0,74,UCF
+0,Sam Merrill,JR,G,205.0,77,Utah State
+1,Neemias Queta,FR,C,245.0,84,Utah State
+2,Diogo Brito,JR,G,205.0,78,Utah State
+3,Brock Miller,FR,G,200.0,77,Utah State
+4,Quinn Taylor,SR,F,240.0,80,Utah State
+5,Dwayne Brown,SR,F,220.0,78,Utah State
+6,Abel Porter,SO,G,200.0,75,Utah State
+7,Justin Bean,FR,F,210.0,79,Utah State
+8,Tauriawn Knight,FR,G,170.0,73,Utah State
+9,John Knight,SO,G,205.0,75,Utah State
+10,Crew Ainge,SO,G,180.0,71,Utah State
+11,Ben Fakira,FR,F,240.0,82,Utah State
+12,Alek Johnson,FR,G,210.0,76,Utah State
+0,Marcus Evans,JR,G,190.0,74,VCU
+1,De'Riante Jenkins,JR,G,190.0,77,VCU
+2,Issac Vann,JR,F,200.0,78,VCU
+3,Marcus Santos-Silva,SO,F,245.0,79,VCU
+4,Vince Williams,FR,G,210.0,78,VCU
+5,Mike'l Simms,JR,G,210.0,77,VCU
+6,Sean Mobley,SO,F,225.0,80,VCU
+7,Malik Crowfield,JR,G,190.0,76,VCU
+8,Corey Douglas,SO,F,220.0,80,VCU
+9,Michael Gilmore,SR,F,210.0,82,VCU
+10,P.J. Byrd,FR,G,175.0,73,VCU
+11,KeShawn Curry,FR,G,185.0,76,VCU
+12,Xavier Jackson,SR,G,190.0,75,VCU
+13,Dylan Sheehy-Guiseppi,SO,G,195.0,73,VCU
+0,Anthony Lamb,JR,F,227.0,78,Vermont
+1,Ernie Duncan,SR,G,190.0,75,Vermont
+2,Stef Smith,SO,G,185.0,74,Vermont
+3,Everett Duncan,JR,G,190.0,78,Vermont
+4,Isaiah Powell,FR,F,220.0,78,Vermont
+5,Robin Duncan,FR,G,190.0,77,Vermont
+6,Ben Shungu,SO,G,200.0,74,Vermont
+7,Samuel Dingba,SR,F,205.0,77,Vermont
+8,Ryan Davis,FR,F,250.0,80,Vermont
+9,RA Kpedi,SO,F,225.0,81,Vermont
+10,Bailey Patella,SO,F,185.0,77,Vermont
+11,Kevin Garrison,FR,G,180.0,72,Vermont
+12,Skyler Nash,FR,G,215.0,78,Vermont
+13,Jake Lorenzo,FR,C,220.0,84,Vermont
+0,Phil Booth,SR,G,194.0,75,Villanova
+1,Eric Paschall,SR,F,255.0,80,Villanova
+2,Collin Gillespie,SO,G,190.0,75,Villanova
+3,Saddiq Bey,FR,F,216.0,80,Villanova
+4,Jermaine Samuels,SO,F,230.0,79,Villanova
+5,Dhamir Cosby-Roundtree,SO,F,235.0,81,Villanova
+6,Joe Cremo,SR,G,191.0,76,Villanova
+7,Jahvon Quinerly,FR,G,175.0,73,Villanova
+8,Cole Swider,FR,F,225.0,81,Villanova
+9,Dylan Painter,SO,F,235.0,82,Villanova
+10,Brandon Slater,FR,F,211.0,78,Villanova
+11,Tim Delaney,JR,F,224.0,80,Villanova
+12,Peyton Heck,SR,G,175.0,71,Villanova
+13,Tim Saunders,SR,G,200.0,76,Villanova
+0,Kyle Guy,JR,G,175.0,74,Virginia
+1,De'Andre Hunter,SO,G,225.0,79,Virginia
+2,Ty Jerome,JR,G,195.0,77,Virginia
+3,Mamadi Diakite,JR,F,224.0,81,Virginia
+4,Braxton Key,JR,F,230.0,80,Virginia
+5,Kihei Clark,FR,G,160.0,69,Virginia
+6,Jay Huff,SO,F,240.0,85,Virginia
+7,Jack Salt,SR,C,250.0,82,Virginia
+8,Kody Stattmann,FR,G,204.0,79,Virginia
+9,Marco Anthony,SO,G,225.0,77,Virginia
+10,Grant Kersey,SO,G,160.0,73,Virginia
+11,Austin Katstra,SO,F,237.0,78,Virginia
+12,Jayden Nixon,FR,G,187.0,75,Virginia
+13,Francesco Badocchi,FR,F,205.0,79,Virginia
+0,Nickeil Alexander-Walker,SO,G,205.0,77,Virginia Tech
+1,Kerry Blackshear,JR,F,241.0,82,Virginia Tech
+2,Ahmed Hill,SR,G,210.0,77,Virginia Tech
+3,Justin Robinson,SR,G,195.0,74,Virginia Tech
+4,Ty Outlaw,SR,G,220.0,78,Virginia Tech
+5,Isaiah Wilkins,FR,G,220.0,76,Virginia Tech
+6,Wabissa Bede,SO,G,195.0,73,Virginia Tech
+7,P.J. Horne,SO,F,230.0,78,Virginia Tech
+8,Jonathan Kabongo,FR,G,195.0,76,Virginia Tech
+9,Brendan Palmer,FR,G,190.0,75,Virginia Tech
+0,Jaylen Nowell,SO,G,200.0,76,Washington
+1,Noah Dickerson,SR,F,245.0,80,Washington
+2,David Crisp,SR,G,195.0,72,Washington
+3,Matisse Thybulle,SR,G,195.0,77,Washington
+4,Nahziah Carter,SO,G,205.0,78,Washington
+5,Dominic Green,SR,F,190.0,78,Washington
+6,Hameir Wright,SO,F,220.0,81,Washington
+7,Sam Timmins,JR,F,265.0,83,Washington
+8,Jamal Bey,FR,G,210.0,78,Washington
+9,Elijah Hardy,FR,G,170.0,74,Washington
+10,Jason Crandall,JR,G,155.0,72,Washington
+11,Reagan Lundeen,FR,F,230.0,78,Washington
+12,Bryan Penn-Johnson,FR,C,260.0,84,Washington
+13,Quin Barnard,JR,G,175.0,72,Washington
+14,Travis Rice,JR,G,185.0,74,Washington
+0,Ethan Happ,SR,F,237.0,82,Wisconsin
+1,D'Mitrik Trice,SO,G,184.0,72,Wisconsin
+2,Brad Davison,SO,G,202.0,76,Wisconsin
+3,Nate Reuvers,SO,F,235.0,83,Wisconsin
+4,Khalil Iverson,SR,F,217.0,77,Wisconsin
+5,Brevin Pritzl,JR,G,204.0,75,Wisconsin
+6,Kobe King,SO,G,205.0,76,Wisconsin
+7,Aleem Ford,SO,F,217.0,80,Wisconsin
+8,Charles Thomas,SR,F,250.0,80,Wisconsin
+9,Tai Strickland,FR,G,180.0,74,Wisconsin
+10,Trevor Anderson,SO,G,195.0,75,Wisconsin
+11,Walt McGrory,SO,G,205.0,75,Wisconsin
+12,Michael Ballard,SO,G,202.0,76,Wisconsin
+0,Fletcher Magee,SR,G,200.0,76,Wofford
+1,Cameron Jackson,SR,F,250.0,80,Wofford
+2,Nathan Hoover,JR,G,185.0,76,Wofford
+3,Storm Murphy,SO,G,180.0,72,Wofford
+4,Keve Aluma,SO,F,235.0,81,Wofford
+5,Tray Hollowell,SO,G,185.0,75,Wofford
+6,Chevez Goodwin,SO,F,215.0,81,Wofford
+7,Matthew Pegram,SR,C,260.0,83,Wofford
+8,Ryan Larson,FR,G,175.0,73,Wofford
+9,Donovan Theme-Love,JR,G,190.0,73,Wofford
+10,Trevor Stumpe,JR,G,215.0,77,Wofford
+11,Michael Manning,SO,F,210.0,81,Wofford
+12,Alex Michael,FR,F,205.0,78,Wofford
+13,Drew Cottrell,FR,G,190.0,76,Wofford
+0,Miye Oni,JR,G,210.0,78,Yale
+1,Alex Copeland,SR,G,175.0,75,Yale
+2,Blake Reynolds,SR,F,240.0,79,Yale
+3,Jordan Bruner,SO,F,225.0,82,Yale
+4,Paul Atkinson,SO,F,220.0,82,Yale
+5,Azar Swain,SO,G,185.0,72,Yale
+6,Trey Phills,SR,G,185.0,74,Yale
+7,Eric Monroe,JR,G,175.0,74,Yale
+8,Austin Williams,JR,F,235.0,80,Yale
+9,Isaiah Kelly,FR,F,215.0,79,Yale
+10,Jalen Gabbidon,SO,G,190.0,77,Yale
+11,Matthue Cotton,FR,G,200.0,77,Yale
+12,Jameel Alausa,SO,F,210.0,79,Yale
+13,Eze Dike,FR,G,195.0,74,Yale
+14,Thomas Ryan,SR,G,185.0,76,Yale
+15,Wyatt Yess,SO,F,220.0,80,Yale
+16,Michael Feinberg,FR,G,195.0,76,Yale
+17,Jake Lanford,FR,F,230.0,82,Yale
