@@ -1,0 +1,107 @@
+1
+UNC
+103
+16
+Texas Southern
+64
+at Greenville, SC
+8
+Arkansas
+77
+9
+Seton Hall
+71
+at Greenville, SC
+5
+Minnesota
+72
+12
+Middle Tennessee
+81
+at Milwaukee, WI
+4
+Butler
+76
+13
+Winthrop
+64
+at Milwaukee, WI
+6
+Cincinnati
+75
+11
+Kansas State
+61
+at Sacramento, CA
+3
+UCLA
+97
+14
+Kent State
+80
+at Sacramento, CA
+7
+Dayton
+58
+10
+Wichita State
+64
+at Indianapolis, IN
+2
+Kentucky
+79
+15
+Northern Kentucky
+70
+at Indianapolis, IN
+1
+UNC
+72
+8
+Arkansas
+65
+at Greenville, SC
+12
+Middle Tennessee
+65
+4
+Butler
+74
+at Milwaukee, WI
+6
+Cincinnati
+67
+3
+UCLA
+79
+at Sacramento, CA
+10
+Wichita State
+62
+2
+Kentucky
+65
+at Indianapolis, IN
+1
+UNC
+92
+4
+Butler
+80
+at Memphis, TN
+3
+UCLA
+75
+2
+Kentucky
+86
+at Memphis, TN
+1
+UNC
+75
+2
+Kentucky
+73
+at Memphis, TN
+1
+UNC

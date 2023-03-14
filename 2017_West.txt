@@ -1,0 +1,107 @@
+1
+Gonzaga
+66
+16
+South Dakota State
+46
+at Salt Lake City, UT
+8
+Northwestern
+68
+9
+Vanderbilt
+66
+at Salt Lake City, UT
+5
+Notre Dame
+60
+12
+Princeton
+58
+at Buffalo, NY
+4
+West Virginia
+86
+13
+Bucknell
+80
+at Buffalo, NY
+6
+Maryland
+65
+11
+Xavier
+76
+at Orlando, FL
+3
+Florida State
+86
+14
+Florida Gulf Coast
+80
+at Orlando, FL
+7
+Saint Mary's
+85
+10
+VCU
+77
+at Salt Lake City, UT
+2
+Arizona
+100
+15
+North Dakota
+82
+at Salt Lake City, UT
+1
+Gonzaga
+79
+8
+Northwestern
+73
+at Salt Lake City, UT
+5
+Notre Dame
+71
+4
+West Virginia
+83
+at Buffalo, NY
+11
+Xavier
+91
+3
+Florida State
+66
+at Orlando, FL
+7
+Saint Mary's
+60
+2
+Arizona
+69
+at Salt Lake City, UT
+1
+Gonzaga
+61
+4
+West Virginia
+58
+at San Jose, CA
+11
+Xavier
+73
+2
+Arizona
+71
+at San Jose, CA
+1
+Gonzaga
+83
+11
+Xavier
+59
+at San Jose, CA
+1
+Gonzaga

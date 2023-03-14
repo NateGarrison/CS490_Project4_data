@@ -1,0 +1,107 @@
+1
+Oregon
+91
+16
+Holy Cross
+52
+at No location provided
+8
+St. Joseph's
+78
+9
+Cincinnati
+76
+at No location provided
+5
+Baylor
+75
+12
+Yale
+79
+at Providence, RI
+4
+Duke
+93
+13
+UNC Wilmington
+85
+at Providence, RI
+6
+Texas
+72
+11
+Northern Iowa
+75
+at No location provided
+3
+Texas A&M
+92
+14
+Green Bay
+65
+at No location provided
+7
+Oregon State
+67
+10
+VCU
+75
+at No location provided
+2
+Oklahoma
+82
+15
+Cal State Bakersfield
+68
+at No location provided
+1
+Oregon
+69
+8
+St. Joseph's
+64
+at No location provided
+12
+Yale
+64
+4
+Duke
+71
+at Providence, RI
+11
+Northern Iowa
+88
+3
+Texas A&M
+92
+at No location provided
+10
+VCU
+81
+2
+Oklahoma
+85
+at No location provided
+1
+Oregon
+82
+4
+Duke
+68
+at Anaheim, CA
+3
+Texas A&M
+63
+2
+Oklahoma
+77
+at Anaheim, CA
+1
+Oregon
+68
+2
+Oklahoma
+80
+at Anaheim, CA
+2
+Oklahoma

@@ -1,0 +1,107 @@
+1
+Virginia
+81
+16
+Hampton
+45
+at Raleigh, NC
+8
+Texas Tech
+61
+9
+Butler
+71
+at Raleigh, NC
+5
+Purdue
+83
+12
+Little Rock
+85
+at No location provided
+4
+Iowa State
+94
+13
+Iona
+81
+at No location provided
+6
+Seton Hall
+52
+11
+Gonzaga
+68
+at No location provided
+3
+Utah
+80
+14
+Fresno State
+69
+at No location provided
+7
+Dayton
+51
+10
+Syracuse
+70
+at St. Louis, MO
+2
+Michigan State
+81
+15
+Middle Tennessee
+90
+at St. Louis, MO
+1
+Virginia
+77
+9
+Butler
+69
+at Raleigh, NC
+12
+Little Rock
+61
+4
+Iowa State
+78
+at No location provided
+11
+Gonzaga
+82
+3
+Utah
+59
+at No location provided
+10
+Syracuse
+75
+15
+Middle Tennessee
+50
+at St. Louis, MO
+1
+Virginia
+84
+4
+Iowa State
+71
+at Chicago, IL
+11
+Gonzaga
+60
+10
+Syracuse
+63
+at Chicago, IL
+1
+Virginia
+62
+10
+Syracuse
+68
+at Chicago, IL
+10
+Syracuse

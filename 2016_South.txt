@@ -1,0 +1,107 @@
+1
+Kansas
+105
+16
+Austin Peay
+79
+at Des Moines, IA
+8
+Colorado
+67
+9
+UConn
+74
+at Des Moines, IA
+5
+Maryland
+79
+12
+South Dakota State
+74
+at No location provided
+4
+California
+66
+13
+Hawaii
+77
+at No location provided
+6
+Arizona
+55
+11
+Wichita State
+65
+at Providence, RI
+3
+Miami (FL)
+79
+14
+Buffalo
+72
+at Providence, RI
+7
+Iowa
+72
+10
+Temple
+70
+at Brooklyn, NY
+2
+Villanova
+86
+15
+UNC Asheville
+56
+at Brooklyn, NY
+1
+Kansas
+73
+9
+UConn
+61
+at Des Moines, IA
+5
+Maryland
+73
+13
+Hawaii
+60
+at No location provided
+11
+Wichita State
+57
+3
+Miami (FL)
+65
+at Providence, RI
+7
+Iowa
+68
+2
+Villanova
+87
+at Brooklyn, NY
+1
+Kansas
+79
+5
+Maryland
+63
+at Louisville, KY
+3
+Miami (FL)
+69
+2
+Villanova
+92
+at Louisville, KY
+1
+Kansas
+59
+2
+Villanova
+64
+at Louisville, KY
+2
+Villanova

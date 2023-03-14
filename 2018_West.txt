@@ -1,0 +1,107 @@
+1
+Xavier
+102
+16
+Texas Southern
+83
+at Nashville, TN
+8
+Missouri
+54
+9
+Florida State
+67
+at Nashville, TN
+5
+Ohio State
+81
+12
+South Dakota State
+73
+at Boise, ID
+4
+Gonzaga
+68
+13
+UNC Greensboro
+64
+at Boise, ID
+6
+Houston
+67
+11
+San Diego State
+65
+at Wichita, KS
+3
+Michigan
+61
+14
+Montana
+47
+at Wichita, KS
+7
+Texas A&M
+73
+10
+Providence
+69
+at Charlotte, NC
+2
+UNC
+84
+15
+Lipscomb
+66
+at Charlotte, NC
+1
+Xavier
+70
+9
+Florida State
+75
+at Nashville, TN
+5
+Ohio State
+84
+4
+Gonzaga
+90
+at Boise, ID
+6
+Houston
+63
+3
+Michigan
+64
+at Wichita, KS
+7
+Texas A&M
+86
+2
+UNC
+65
+at Charlotte, NC
+9
+Florida State
+75
+4
+Gonzaga
+60
+at Los Angeles, CA
+3
+Michigan
+99
+7
+Texas A&M
+72
+at Los Angeles, CA
+9
+Florida State
+54
+3
+Michigan
+58
+at Los Angeles, CA
+3
+Michigan

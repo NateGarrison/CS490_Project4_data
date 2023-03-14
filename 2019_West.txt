@@ -1,0 +1,107 @@
+1
+Gonzaga
+87
+16
+Fairleigh Dickinson
+49
+at Salt Lake City, UT
+8
+Syracuse
+69
+9
+Baylor
+78
+at Salt Lake City, UT
+5
+Marquette
+64
+12
+Murray State
+83
+at Hartford, CT
+4
+Florida State
+76
+13
+Vermont
+69
+at Hartford, CT
+6
+Buffalo
+91
+11
+Arizona State
+74
+at Tulsa, OK
+3
+Texas Tech
+72
+14
+Northern Kentucky
+57
+at Tulsa, OK
+7
+Nevada
+61
+10
+Florida
+70
+at Des Moines, IA
+2
+Michigan
+74
+15
+Montana
+55
+at Des Moines, IA
+1
+Gonzaga
+83
+9
+Baylor
+71
+at Salt Lake City, UT
+12
+Murray State
+62
+4
+Florida State
+90
+at Hartford, CT
+6
+Buffalo
+58
+3
+Texas Tech
+78
+at Tulsa, OK
+10
+Florida
+49
+2
+Michigan
+64
+at Des Moines, IA
+1
+Gonzaga
+72
+4
+Florida State
+58
+at Anaheim, CA
+3
+Texas Tech
+63
+2
+Michigan
+44
+at Anaheim, CA
+1
+Gonzaga
+69
+3
+Texas Tech
+75
+at Anaheim, CA
+3
+Texas Tech

@@ -1,0 +1,107 @@
+1
+Kansas
+100
+16
+UC-Davis
+62
+at Tulsa, OK
+8
+Miami (FL)
+58
+9
+Michigan State
+78
+at Tulsa, OK
+5
+Iowa State
+84
+12
+Nevada
+73
+at Milwaukee, WI
+4
+Purdue
+80
+13
+Vermont
+70
+at Milwaukee, WI
+6
+Creighton
+72
+11
+Rhode Island
+84
+at Sacramento, CA
+3
+Oregon
+93
+14
+Iona
+77
+at Sacramento, CA
+7
+Michigan
+92
+10
+Oklahoma State
+91
+at Indianapolis, IN
+2
+Louisville
+78
+15
+Jacksonville State
+63
+at Indianapolis, IN
+1
+Kansas
+90
+9
+Michigan State
+70
+at Tulsa, OK
+5
+Iowa State
+76
+4
+Purdue
+80
+at Milwaukee, WI
+11
+Rhode Island
+72
+3
+Oregon
+75
+at Sacramento, CA
+7
+Michigan
+73
+2
+Louisville
+69
+at Indianapolis, IN
+1
+Kansas
+98
+4
+Purdue
+66
+at Kansas City, MO
+3
+Oregon
+69
+7
+Michigan
+68
+at Kansas City, MO
+1
+Kansas
+60
+3
+Oregon
+74
+at Kansas City, MO
+3
+Oregon

@@ -1,0 +1,107 @@
+1
+Villanova
+87
+16
+Radford
+61
+at Pittsburgh, PA
+8
+Virginia Tech
+83
+9
+Alabama
+86
+at Pittsburgh, PA
+5
+West Virginia
+85
+12
+Murray State
+68
+at San Diego, CA
+4
+Wichita State
+75
+13
+Marshall
+81
+at San Diego, CA
+6
+Florida
+77
+11
+St. Bonaventure
+62
+at Dallas, TX
+3
+Texas Tech
+70
+14
+Stephen F. Austin
+60
+at Dallas, TX
+7
+Arkansas
+62
+10
+Butler
+79
+at Detroit, MI
+2
+Purdue
+74
+15
+Cal State Fullerton
+48
+at Detroit, MI
+1
+Villanova
+81
+9
+Alabama
+58
+at Pittsburgh, PA
+5
+West Virginia
+94
+13
+Marshall
+71
+at San Diego, CA
+6
+Florida
+66
+3
+Texas Tech
+69
+at Dallas, TX
+10
+Butler
+73
+2
+Purdue
+76
+at Detroit, MI
+1
+Villanova
+90
+5
+West Virginia
+78
+at Boston, MA
+3
+Texas Tech
+78
+2
+Purdue
+65
+at Boston, MA
+1
+Villanova
+71
+3
+Texas Tech
+59
+at Boston, MA
+1
+Villanova

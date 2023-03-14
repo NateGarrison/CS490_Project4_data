@@ -1,0 +1,107 @@
+1
+Duke
+85
+16
+North Dakota State
+62
+at Columbia, SC
+8
+VCU
+58
+9
+UCF
+73
+at Columbia, SC
+5
+Mississippi State
+76
+12
+Liberty
+80
+at San Jose, CA
+4
+Virginia Tech
+66
+13
+Saint Louis
+52
+at San Jose, CA
+6
+Maryland
+79
+11
+Belmont
+77
+at Jacksonville, FL
+3
+LSU
+79
+14
+Yale
+74
+at Jacksonville, FL
+7
+Louisville
+76
+10
+Minnesota
+86
+at Des Moines, IA
+2
+Michigan State
+76
+15
+Bradley
+65
+at Des Moines, IA
+1
+Duke
+77
+9
+UCF
+76
+at Columbia, SC
+12
+Liberty
+58
+4
+Virginia Tech
+67
+at San Jose, CA
+6
+Maryland
+67
+3
+LSU
+69
+at Jacksonville, FL
+10
+Minnesota
+50
+2
+Michigan State
+70
+at Des Moines, IA
+1
+Duke
+75
+4
+Virginia Tech
+73
+at Washington, DC
+3
+LSU
+63
+2
+Michigan State
+80
+at Washington, DC
+1
+Duke
+67
+2
+Michigan State
+68
+at Washington, DC
+2
+Michigan State

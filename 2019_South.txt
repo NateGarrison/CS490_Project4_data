@@ -1,0 +1,107 @@
+1
+Virginia
+71
+16
+Gardner-Webb
+56
+at Columbia, SC
+8
+Ole Miss
+72
+9
+Oklahoma
+95
+at Columbia, SC
+5
+Wisconsin
+54
+12
+Oregon
+72
+at San Jose, CA
+4
+Kansas State
+64
+13
+UC-Irvine
+70
+at San Jose, CA
+6
+Villanova
+61
+11
+Saint Mary's
+57
+at Hartford, CT
+3
+Purdue
+61
+14
+Old Dominion
+48
+at Hartford, CT
+7
+Cincinnati
+72
+10
+Iowa
+79
+at Columbus, OH
+2
+Tennessee
+77
+15
+Colgate
+70
+at Columbus, OH
+1
+Virginia
+63
+9
+Oklahoma
+51
+at Columbia, SC
+12
+Oregon
+73
+13
+UC-Irvine
+54
+at San Jose, CA
+6
+Villanova
+61
+3
+Purdue
+87
+at Hartford, CT
+10
+Iowa
+77
+2
+Tennessee
+83
+at Columbus, OH
+1
+Virginia
+53
+12
+Oregon
+49
+at Louisville, KY
+3
+Purdue
+99
+2
+Tennessee
+94
+at Louisville, KY
+1
+Virginia
+80
+3
+Purdue
+75
+at Louisville, KY
+1
+Virginia

@@ -1,0 +1,107 @@
+1
+UNC
+88
+16
+Iona
+73
+at Columbus, OH
+8
+Utah State
+61
+9
+Washington
+78
+at Columbus, OH
+5
+Auburn
+78
+12
+New Mexico State
+77
+at Salt Lake City, UT
+4
+Kansas
+87
+13
+Northeastern
+53
+at Salt Lake City, UT
+6
+Iowa State
+59
+11
+Ohio State
+62
+at Tulsa, OK
+3
+Houston
+84
+14
+Georgia State
+55
+at Tulsa, OK
+7
+Wofford
+84
+10
+Seton Hall
+68
+at Jacksonville, FL
+2
+Kentucky
+79
+15
+Abilene Christian
+44
+at Jacksonville, FL
+1
+UNC
+81
+9
+Washington
+59
+at Columbus, OH
+5
+Auburn
+89
+4
+Kansas
+75
+at Salt Lake City, UT
+11
+Ohio State
+59
+3
+Houston
+74
+at Tulsa, OK
+7
+Wofford
+56
+2
+Kentucky
+62
+at Jacksonville, FL
+1
+UNC
+80
+5
+Auburn
+97
+at Kansas City, MO
+3
+Houston
+58
+2
+Kentucky
+62
+at Kansas City, MO
+5
+Auburn
+77
+2
+Kentucky
+71
+at Kansas City, MO
+5
+Auburn

@@ -1,0 +1,107 @@
+1
+Villanova
+76
+16
+Mount St. Mary's
+56
+at Buffalo, NY
+8
+Wisconsin
+84
+9
+Virginia Tech
+74
+at Buffalo, NY
+5
+Virginia
+76
+12
+UNC Wilmington
+71
+at Orlando, FL
+4
+Florida
+80
+13
+ETSU
+65
+at Orlando, FL
+6
+SMU
+65
+11
+USC
+66
+at Tulsa, OK
+3
+Baylor
+91
+14
+New Mexico State
+73
+at Tulsa, OK
+7
+South Carolina
+93
+10
+Marquette
+73
+at Greenville, SC
+2
+Duke
+87
+15
+Troy
+65
+at Greenville, SC
+1
+Villanova
+62
+8
+Wisconsin
+65
+at Buffalo, NY
+5
+Virginia
+39
+4
+Florida
+65
+at Orlando, FL
+11
+USC
+78
+3
+Baylor
+82
+at Tulsa, OK
+7
+South Carolina
+88
+2
+Duke
+81
+at Greenville, SC
+8
+Wisconsin
+83
+4
+Florida
+84
+at New York, NY
+3
+Baylor
+50
+7
+South Carolina
+70
+at New York, NY
+4
+Florida
+70
+7
+South Carolina
+77
+at New York, NY
+7
+South Carolina

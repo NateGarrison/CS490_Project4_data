@@ -1,0 +1,107 @@
+1
+Kansas
+76
+16
+Penn
+60
+at Wichita, KS
+8
+Seton Hall
+94
+9
+NC State
+83
+at Wichita, KS
+5
+Clemson
+79
+12
+New Mexico State
+68
+at San Diego, CA
+4
+Auburn
+62
+13
+College of Charleston
+58
+at San Diego, CA
+6
+TCU
+52
+11
+Syracuse
+57
+at Detroit, MI
+3
+Michigan State
+82
+14
+Bucknell
+78
+at Detroit, MI
+7
+Rhode Island
+83
+10
+Oklahoma
+78
+at Pittsburgh, PA
+2
+Duke
+89
+15
+Iona
+67
+at Pittsburgh, PA
+1
+Kansas
+83
+8
+Seton Hall
+79
+at Wichita, KS
+5
+Clemson
+84
+4
+Auburn
+53
+at San Diego, CA
+11
+Syracuse
+55
+3
+Michigan State
+53
+at Detroit, MI
+7
+Rhode Island
+62
+2
+Duke
+87
+at Pittsburgh, PA
+1
+Kansas
+80
+5
+Clemson
+76
+at Omaha, NE
+11
+Syracuse
+65
+2
+Duke
+69
+at Omaha, NE
+1
+Kansas
+85
+2
+Duke
+81
+at Omaha, NE
+1
+Kansas
